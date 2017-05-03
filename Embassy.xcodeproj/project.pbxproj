@@ -823,6 +823,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.envoy.Embassy;
 				PRODUCT_NAME = Embassy;
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
